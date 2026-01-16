@@ -11,7 +11,7 @@
 </p>
 
 ## 🚀 About Me 
-I help turn messy spreadsheets into organized, 
+I'm a data analyst passionate about helping businesses make sense of their data, I help turn messy spreadsheets into organized, 
 actionable insights using Excel and Google Sheets.
 Right now, I'm strongest in Excel – cleaning data, building formulas, 
 creating pivot tables, and designing dashboards that actually get used. 
