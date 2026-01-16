@@ -11,11 +11,20 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I help turn messy spreadsheets into organized, 
+actionable insights using Excel and Google Sheets.
+Right now, I'm strongest in Excel – cleaning data, building formulas, 
+creating pivot tables, and designing dashboards that actually get used. 
+I'm actively learning SQL, Python, and Power BI to expand my toolkit.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+🔧 What I'm good at (Excel & Google Sheets):
+- Cleaning messy data (removing duplicates, fixing formats, handling errors)
+- Formulas: VLOOKUP, INDEX-MATCH, SUMIFS, conditional logic
+- Pivot tables and charts that answer real business questions
+- Building simple dashboards with slicers and conditional formatting
+- Automating repetitive tasks with basic macros
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with data, I enjoy [ creating content, taking walks, adventure ]. I love the "ooohhh!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
