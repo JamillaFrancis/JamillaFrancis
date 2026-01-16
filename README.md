@@ -31,9 +31,8 @@ When I'm not working with data, I enjoy  creating content, taking walks, adventu
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** Building an Inventory Software in Excel using VBA  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Inventory System:** Building an Inventory Software in Excel using VBA  
+- **Content Creation:** Show-casing my skills in my social media platforms
 
 ## 🌱 Currently Learning 
 
